@@ -14,8 +14,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong backg
 - 📫 How to reach me: rahadislam.web@gmail.com 
 
 #### Work Example
-[<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/download.gif' alt='github' width="200">](https://github.com/rahadislam)  [<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled design.gif' alt='linkedin' width="200">](https://www.linkedin.com/in/rahadislam/)  
-[<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/download.gif' alt='github' width="200">](https://github.com/rahadislam)
+[<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/download.gif' alt='github' width="300">](https://github.com/rahadislam)  [<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled design.gif' alt='linkedin' width="300">](https://www.linkedin.com/in/rahadislam/)  S
 
 
 
