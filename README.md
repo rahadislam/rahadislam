@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong backg
 - 📫 How to reach me: rahadislam.web@gmail.com 
 
 #### Work Example
-[<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/download.gif' alt='github' width="256">](https://github.com/rahadislam)  [<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled design.gif' alt='linkedin' width="256">](https://www.linkedin.com/in/rahadislam/)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg](https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled%20design%20(1).gif)' alt='website' height='40'>](https://amazing-naiad-eb05da.netlify.app/)  
+[<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/download.gif' alt='github' width="256">](https://github.com/rahadislam)  [<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled design.gif' alt='linkedin' width="256">](https://www.linkedin.com/in/rahadislam/)  
+[<img src="https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled%20design%20(1).gif" width="256" />]
 
 [<img src="https://raw.githubusercontent.com/rahadislam/rahadislam/main/download.gif" width="256" />]
 [<img src="https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled design.gif" width="256" />]
