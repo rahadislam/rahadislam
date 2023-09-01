@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong backg
 #### Work Example
 [<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/download.gif' alt='github' width="300">](https://github.com/rahadislam)  [<img src='https://raw.githubusercontent.com/rahadislam/rahadislam/main/Untitled design.gif' alt='linkedin' width="300">](https://www.linkedin.com/in/rahadislam/)  S
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rahadislam)  
 
+#### Contact Us
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahadislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahadislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rahadislamxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amazing-naiad-eb05da.netlify.app/)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rahadislam)  
 
